@@ -1,5 +1,5 @@
 # Coursera-Python
-A collection of some Python made from a course online in Coursera.
+A collection of some Python made from a course online in Coursera.  These games work best under Python 2.7.
 
 The following packages should be installed in order to have the games function:
 1. pillow
