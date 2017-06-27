@@ -1,6 +1,14 @@
 # Coursera-Python
 A collection of some Python made from a course online in Coursera.
 
+The following packages should be installed in order to have the games function:
+1. pillow
+2. ktinker
+3. python-tk
+4. yum (optional)
+5. yum-utils (optional)
+
+
 Stopwatch Game
 http://www.codeskulptor.org/#user30_XfNkdemcsT_15.py
 
